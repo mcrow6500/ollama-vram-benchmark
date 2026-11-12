@@ -1,0 +1,14 @@
+# Local configuration and benchmark output
+boundary-hunter.toml
+*.toml
+.model_name
+Quick_Command_Reference
+benchmarks/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
